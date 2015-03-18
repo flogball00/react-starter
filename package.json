@@ -1,0 +1,19 @@
+{
+  "name": "es6-playground",
+  "version": "1.0.0",
+  "description": "playground for doing es6 things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack -w"
+  },
+  "author": "mike leong",
+  "license": "ISC",
+  "dependencies": {
+    "babel-loader": "^4.2.0",
+    "react": "^0.13.1",
+    "react-hot-loader": "^1.2.2",
+    "webpack": "^1.7.2",
+    "webpack-dev-server": "^1.7.0"
+  }
+}
