@@ -1,3 +1,6 @@
 npm install
+
 npm start
-localhost:3000
+
+open localhost:3000 in browser
+
